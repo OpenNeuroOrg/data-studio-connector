@@ -1,0 +1,12 @@
+{
+  "dataStudio": {
+    "name": "OpenNeuro.org Public Datasets",
+    "company": "OpenNeuro.org",
+    "companyUrl": "https://openneuro.org",
+    "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
+    "supportUrl": "https://github.com/google/datastudio/issues",
+    "description": "Metadata about OpenNeuro public datasets",
+    "sources": ["openneuro"],
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/%22npm%22%20lockup/npm-logo-simplifed-with-white-space.png"
+  }
+}
